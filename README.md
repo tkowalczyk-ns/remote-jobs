@@ -345,6 +345,7 @@ Name | Website | Region
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | https://www.webdesignedinburgh.com | UK & Europe
+[NeuroSYS](/company-profiles/neurosys.md) | https://www.neurosys.com |
 [New Context](/company-profiles/new-context.md) | https://www.newcontext.com/ | USA
 [NEXT](/company-profiles/next.md) | https://www.nexttrucking.com/ | USA
 [Next Big Sound](/company-profiles/next-big-sound.md) ⚠️️ | https://www.nextbigsound.com/ |
